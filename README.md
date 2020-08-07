@@ -22,14 +22,14 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./camera_cal/calibration2.jpg
-[image2]: ../CarND-Advanced-Lane-Lines/output_images/_calibration2_undistorted.jpg
-[image3]: ../CarND-Advanced-Lane-Lines/test_images/straight_lines2.jpg
-[image4]: ../CarND-Advanced-Lane-Lines/output_images/_undist_3.jpg
-[image5]: ../CarND-Advanced-Lane-Lines/output_images/_combined_binary255_3.jpg
-[image6]: ../CarND-Advanced-Lane-Lines/output_images/_warp_binary255_3.jpg
-[image7]: ../CarND-Advanced-Lane-Lines/output_images/_polyfit_7.jpg
-[image8]: ../CarND-Advanced-Lane-Lines/output_images/_final_image_7.jpg
-[video1]: ../CarND-Advanced-Lane-Lines/output_images/project_video_output.mp4
+[image2]: ./_calibration2_undistorted.jpg
+[image3]: ./test_images/straight_lines2.jpg
+[image4]: ./output_images/_undist_3.jpg
+[image5]: ./output_images/_combined_binary255_3.jpg
+[image6]: ./output_images/_warp_binary255_3.jpg
+[image7]: ./output_images/_polyfit_7.jpg
+[image8]: ./output_images/_final_image_7.jpg
+[video1]: ./output_images/project_video_output.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
