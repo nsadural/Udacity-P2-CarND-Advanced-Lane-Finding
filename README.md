@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ../CarND-Advanced-Lane-Lines/camera_cal/calibration2.jpg
+[image1]: (../CarND-Advanced-Lane-Lines/camera_cal/calibration2.jpg)
 [image2]: ../CarND-Advanced-Lane-Lines/output_images/_calibration2_undistorted.jpg
 [image3]: ../CarND-Advanced-Lane-Lines/test_images/straight_lines2.jpg
 [image4]: ../CarND-Advanced-Lane-Lines/output_images/_undist_3.jpg
