@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: (../CarND-Advanced-Lane-Lines/camera_cal/calibration2.jpg)
+[image1]: ../CarND-Advanced-Lane-Lines/camera_cal/calibration2.jpg
 [image2]: ../CarND-Advanced-Lane-Lines/output_images/_calibration2_undistorted.jpg
 [image3]: ../CarND-Advanced-Lane-Lines/test_images/straight_lines2.jpg
 [image4]: ../CarND-Advanced-Lane-Lines/output_images/_undist_3.jpg
@@ -40,7 +40,7 @@ The goals / steps of this project are the following:
 To calculate the camera matrix and distortion coefficients, I started off by initializing the `objp` array of object points that correspond to (x,y,z) coordinates in the real world (assuming an x-y plane where z=0). Then I created the arrays `objpoints` and `imgpoints` to store 3D real world points and 2D image plane points, respectively, from all the calibration images. With these arrays as inputs into the `cv2.calibrateCamera()` function, the camera matrix `mtx` and distortion coefficients `dist` were computed to apply to all images captured by the camera.
 
 ##### Distorted (original) image:
-![alt text][image1]
+![alt text](../CarND-Advanced-Lane-Lines/camera_cal/calibration2.jpg)
 
 ##### Undistorted (corrected) image:
 ![alt text][image2]
